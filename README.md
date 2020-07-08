@@ -5,4 +5,4 @@ A simple dice game using JS where the outcomes of the dices are decided by rando
 <!--------------------------------------------------------------------!>
 
 
-The link to the site is: https://app.netlify.com/sites/elegant-bhaskara-056c04/overview
+The link to the site is: https://elegant-bhaskara-056c04.netlify.app/
